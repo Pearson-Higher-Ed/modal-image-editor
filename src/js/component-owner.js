@@ -96,6 +96,7 @@ class ComponentOwner extends Component {
             <div className="modalBody">
               <p>{bodyText}</p>
                 <AvatarEditor
+                  ref    = "editor"
                   image  = "test.jpg"
                   width  = {250}
                   height = {150}

@@ -26,9 +26,11 @@
     "pearson-elements": "^0.13.0",
     "react-avatar-editor": "^4.1.3",
     "react-intl": "~2.0.1",
-    "react-modal": "^1.4.0"
+    "react-modal": "^1.4.0",
+    "sliderComponent": "git+https://github.com/Pearson-Higher-Ed/slider.git"
   },
   "devDependencies": {
+    "babel-plugin-transform-es2015-modules-umd": "^6.12.0",
     "babel-core": "~6.3.17",
     "babel-eslint": "~4.1.6",
     "babel-loader": "~6.2.0",
